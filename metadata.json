@@ -1,0 +1,6 @@
+{
+  "name": "SQL & NoSQL Query Bot",
+  "description": "An AI-powered chatbot that converts natural language into SQL and NoSQL database queries with a selection of database connection strings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Query Generation", "Multi-Database Support"]
+}
